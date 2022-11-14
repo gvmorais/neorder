@@ -1,5 +1,4 @@
 import { Box, Button, Flex, Image, Text } from '@chakra-ui/react';
-import { useEffect, useState } from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 
 interface Data {
@@ -711,12 +710,6 @@ export default function Home() {
       ],
     },
   ];
-
-  useEffect(() => {
-    console.log(data);
-  });
-
-  const [count, setCount] = useState(0);
 
   return (
     <Flex direction="column" id="teste" overflowX="hidden">
