@@ -26,6 +26,7 @@
     "react-icons": "^4.3.1",
     "react-markdown": "^8.0.2",
     "react-multi-carousel": "^2.8.2",
+    "react-scroll": "^1.8.8",
     "remark-gfm": "^3.0.1",
     "usehooks-ts": "^2.6.0"
   },
