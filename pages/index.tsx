@@ -91,7 +91,7 @@ export default function Home() {
           date: '2012',
         },
         {
-          name: '16. BlockandLog',
+          name: '16. Block and load',
           date: '2012',
         },
         {
@@ -211,7 +211,7 @@ export default function Home() {
           date: '2015',
         },
         {
-          name: '42. Stronghold Cruzader',
+          name: '42. Stronghold Crusader',
           date: '2015',
         },
         {
