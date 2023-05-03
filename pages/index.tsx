@@ -716,7 +716,7 @@ export default function Home() {
           date: '2022-10-05',
         },
         {
-          name: '158. red solstice 2',
+          name: '158. Red solistice 2',
           date: '2022-10-17',
         },
         {
