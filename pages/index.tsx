@@ -707,6 +707,38 @@ export default function Home() {
           name: '155. Unrailed',
           date: '2022-08-24',
         },
+        {
+          name: '156. Scathe',
+          date: '2022-09-14',
+        },
+        {
+          name: '157. Lord of the Rings: War in the North',
+          date: '2022-10-05',
+        },
+        {
+          name: '158. red solstice 2',
+          date: '2022-10-17',
+        },
+        {
+          name: '159. Skyrim Together',
+          date: '2022-10-26',
+        },
+        {
+          name: '160. Divinity 2',
+          date: '2023-01-15',
+        },
+        {
+          name: '161. Dungeons of Sundaria',
+          date: '2023-01-31',
+        },
+        {
+          name: '162. Elden Ring (Co-op)',
+          date: '2023-03-18',
+        },
+        {
+          name: '163. YLands',
+          date: '2023-04',
+        },
       ],
     },
   ];
