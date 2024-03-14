@@ -723,6 +723,11 @@ export default function Home() {
           name: '159. Skyrim Together',
           date: '2022-10-26',
         },
+      ],
+    },
+    {
+      dateJoined: '2023',
+      games: [
         {
           name: '160. Divinity 2',
           date: '2023-01-15',
@@ -741,10 +746,31 @@ export default function Home() {
         },
       ],
     },
+    {
+      dateJoined: '2024',
+      games: [
+        {
+          name: '164. Mines of Moria',
+          date: '2024-01-21',
+        },
+        {
+          name: '165. Palworld',
+          date: '2024-03-03',
+        },
+        {
+          name: '166. Frostpunk',
+          date: '2024-03-14',
+        },
+      ],
+    },
   ];
 
   return (
-    <Flex direction="column" id="teste" overflowX="hidden">
+    <Flex
+      direction="column"
+      id="teste"
+      overflowX="hidden"
+      scrollBehavior="smooth">
       <Box
         position="fixed"
         _after={{
