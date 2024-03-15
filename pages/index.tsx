@@ -754,11 +754,27 @@ export default function Home() {
           date: '2024-01-21',
         },
         {
-          name: '165. Palworld',
+          name: '165. Green Hell',
+          date: '2024-02-20',
+        },
+        {
+          name: '166. Monster Hunter Rise',
+          date: '2024-02-21',
+        },
+        {
+          name: '167. Palworld',
           date: '2024-03-03',
         },
         {
-          name: '166. Frostpunk',
+          name: '168. Heavenly Bodies',
+          date: '2024-03-04',
+        },
+        {
+          name: "169. Tiny Tina's Wonderland (co-op)",
+          date: '2024-03-11',
+        },
+        {
+          name: '170. Frostpunk',
           date: '2024-03-14',
         },
       ],
