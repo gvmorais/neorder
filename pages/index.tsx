@@ -777,6 +777,10 @@ export default function Home() {
           name: '170. Frostpunk',
           date: '2024-03-14',
         },
+        {
+          name: '171. Grim Dawn',
+          date: '2024-03-25',
+        },
       ],
     },
   ];
