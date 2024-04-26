@@ -726,7 +726,7 @@ export default function Home() {
       ],
     },
     {
-      dateJoined: 'Entrada de Manito - 2023',
+      dateJoined: '2023 (Entrada de Murais)',
       games: [
         {
           name: '160. Divinity 2',
