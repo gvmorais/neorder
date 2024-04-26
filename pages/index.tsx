@@ -726,7 +726,7 @@ export default function Home() {
       ],
     },
     {
-      dateJoined: '2023',
+      dateJoined: 'Entrada de Manito - 2023',
       games: [
         {
           name: '160. Divinity 2',
@@ -780,6 +780,10 @@ export default function Home() {
         {
           name: '171. Grim Dawn',
           date: '2024-03-25',
+        },
+        {
+          name: "171. No Man's Sky",
+          date: '2024-04-16',
         },
       ],
     },
