@@ -595,67 +595,67 @@ export default function Home() {
           date: '2021-03-07',
         },
         {
-          name: 'The Guild 3',
+          name: '130. The Guild 3',
           date: '2021-03-08',
         },
         {
-          name: '130. Enlisted',
+          name: '131. Enlisted',
           date: '2021-04',
         },
         {
-          name: '131. State of Decay',
+          name: '132. State of Decay',
           date: '2021-05-31',
         },
         {
-          name: '132. Operation Tango',
+          name: '133. Operation Tango',
           date: '2021-06-04',
         },
         {
-          name: '133. SpellForce 3: Soul Harvest',
+          name: '134. SpellForce 3: Soul Harvest',
           date: '2021-06-06',
         },
         {
-          name: '134. Hearts of Iron IV',
+          name: '135. Hearts of Iron IV',
           date: '2021-06-20',
         },
         {
-          name: '135. Foxhole',
+          name: '136. Foxhole',
           date: '2021-06-28',
         },
         {
-          name: '136. Parkitect',
+          name: '137. Parkitect',
           date: '2021-07-04',
         },
         {
-          name: '137. Survivalist: Invisible Strain',
+          name: '138. Survivalist: Invisible Strain',
           date: '2021-07-19',
         },
         {
-          name: '138. Crusader Kings III',
+          name: '139. Crusader Kings III',
           date: '2021-07-23',
         },
         {
-          name: '139. Hobo Tough Life',
+          name: '140. Hobo Tough Life',
           date: '2021-07-31',
         },
         {
-          name: '140. The Ascent',
+          name: '141. The Ascent',
           date: '2021-08-01',
         },
         {
-          name: '141. Orcs Must Die III',
+          name: '142. Orcs Must Die III',
           date: '2021-08-24',
         },
         {
-          name: '142. Dungeons 3',
+          name: '143. Dungeons 3',
           date: '2021-09-13',
         },
         {
-          name: '143. Call of Arms: Gates of Hell',
+          name: '144. Call of Arms: Gates of Hell',
           date: '2021-10-03',
         },
         {
-          name: '144. Police Simulator: Patrol Officer',
+          name: '145. Police Simulator: Patrol Officer',
           date: '2021-10-09',
         },
       ],
@@ -664,63 +664,63 @@ export default function Home() {
       dateJoined: '2022',
       games: [
         {
-          name: '145. Rim World (Multiplayer)',
+          name: '146. Rim World (Multiplayer)',
           date: '2022-01-13',
         },
         {
-          name: '146. Vintage Story',
+          name: '147. Vintage Story',
           date: '2022-01-24',
         },
         {
-          name: '147. Kingdoms Reborn',
+          name: '148. Kingdoms Reborn',
           date: '2022-03-11',
         },
         {
-          name: '148. Earth Defence Force 4.1',
+          name: '149. Earth Defence Force 4.1',
           date: '2022-18-03',
         },
         {
-          name: '149. Territorial.io',
+          name: '150. Territorial.io',
           date: '2022-04-10',
         },
         {
-          name: '150. Sea of Thieves',
+          name: '151. Sea of Thieves',
           date: '2022-04-13',
         },
         {
-          name: '151. Graven',
+          name: '152. Graven',
           date: '2022-04-13',
         },
         {
-          name: '152. PokeMMO: Pokémon Black & White version',
+          name: '153. PokeMMO: Pokémon Black & White version',
           date: '2022-04-16',
         },
         {
-          name: '153. V Rising',
+          name: '154. V Rising',
           date: '2022-05-31',
         },
         {
-          name: '154. Survivalist: the Invisible Strain',
+          name: '155. Survivalist: the Invisible Strain',
           date: '2022-07-20',
         },
         {
-          name: '155. Unrailed',
+          name: '156. Unrailed',
           date: '2022-08-24',
         },
         {
-          name: '156. Scathe',
+          name: '157. Scathe',
           date: '2022-09-14',
         },
         {
-          name: '157. Lord of the Rings: War in the North',
+          name: '158. Lord of the Rings: War in the North',
           date: '2022-10-05',
         },
         {
-          name: '158. Red solistice 2',
+          name: '159. Red solistice 2',
           date: '2022-10-17',
         },
         {
-          name: '159. Skyrim Together',
+          name: '160. Skyrim Together',
           date: '2022-10-26',
         },
       ],
@@ -729,19 +729,19 @@ export default function Home() {
       dateJoined: '2023 (Entrada de Manito)',
       games: [
         {
-          name: '160. Divinity 2',
+          name: '161. Divinity 2',
           date: '2023-01-15',
         },
         {
-          name: '161. Dungeons of Sundaria',
+          name: '162. Dungeons of Sundaria',
           date: '2023-01-31',
         },
         {
-          name: '162. Elden Ring (Co-op)',
+          name: '163. Elden Ring (Co-op)',
           date: '2023-03-18',
         },
         {
-          name: '163. YLands',
+          name: '164. YLands',
           date: '2023-04',
         },
       ],
@@ -750,39 +750,39 @@ export default function Home() {
       dateJoined: '2024',
       games: [
         {
-          name: '164. Mines of Moria',
+          name: '165. Mines of Moria',
           date: '2024-01-21',
         },
         {
-          name: '165. Green Hell',
+          name: '166. Green Hell',
           date: '2024-02-20',
         },
         {
-          name: '166. Monster Hunter Rise',
+          name: '167. Monster Hunter Rise',
           date: '2024-02-21',
         },
         {
-          name: '167. Palworld',
+          name: '168. Palworld',
           date: '2024-03-03',
         },
         {
-          name: '168. Heavenly Bodies',
+          name: '169. Heavenly Bodies',
           date: '2024-03-04',
         },
         {
-          name: "169. Tiny Tina's Wonderland (co-op)",
+          name: "170. Tiny Tina's Wonderland (co-op)",
           date: '2024-03-11',
         },
         {
-          name: '170. Frostpunk',
+          name: '171. Frostpunk',
           date: '2024-03-14',
         },
         {
-          name: '171. Grim Dawn',
+          name: '172. Grim Dawn',
           date: '2024-03-25',
         },
         {
-          name: "171. No Man's Sky",
+          name: "173. No Man's Sky",
           date: '2024-04-16',
         },
       ],
