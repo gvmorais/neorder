@@ -785,6 +785,22 @@ export default function Home() {
           name: "173. No Man's Sky",
           date: '2024-04-16',
         },
+        {
+          name: '174. Enshrouded',
+          date: '2024-05',
+        },
+        {
+          name: '175. Victoria 3',
+          date: '2024-05-07',
+        },
+        {
+          name: '176. Abiotic Factor',
+          date: '2024-06-10',
+        },
+        {
+          name: '177. Deadlock',
+          date: '2024-08-23',
+        },
       ],
     },
   ];
